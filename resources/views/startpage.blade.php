@@ -30,19 +30,19 @@
                         <!-- main slider carousel items -->
                         <div class="carousel-inner">
                             <div class="item carousel-item" data-slide-number="0">
-                                <img src="/img/foto1.jpg" class="img-fluid" alt="slider-properties">
+                                <img src="{{url('img/foto1.jpg')}}" class="img-fluid" alt="slider-properties">
                             </div>
                             <div class="item carousel-item" data-slide-number="1">
-                                <img src="/img/foto2.jpg" class="img-fluid" alt="slider-properties">
+                                <img src="{{url('img/foto2.jpg')}}" class="img-fluid" alt="slider-properties">
                             </div>
                             <div class="item carousel-item" data-slide-number="2">
-                                <img src="/img/foto3.jpg" class="img-fluid" alt="slider-properties">
+                                <img src="{{url('img/foto3.jpg')}}" class="img-fluid" alt="slider-properties">
                             </div>
                             <div class="item carousel-item" data-slide-number="4">
-                                <img src="/img/foto2.jpg" class="img-fluid" alt="slider-properties">
+                                <img src="{{url('img/foto2.jpg')}}" class="img-fluid" alt="slider-properties">
                             </div>
                             <div class="item carousel-item active" data-slide-number="5">
-                                <img src="/img/foto1.jpg" class="img-fluid" alt="slider-properties">
+                                <img src="{{url('img/foto1.jpg')}}" class="img-fluid" alt="slider-properties">
                             </div>
     
                             <a class="carousel-control left" href="#propertiesDetailsSlider" data-slide="prev"><i class="fa fa-angle-left"></i></a>
